@@ -52,4 +52,4 @@ QA:
         lng: 50.7211001
   currency_code: QAR
   start_of_week: sunday
-  utc_difference: "+03:00"
+  timezone: "Asia/Qatar"
